@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 675,
+      "comment": "Mango was purchased on second hand. This fruit cost of worth 675",
+      "date": "2022-09-22T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Fan",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 1111,
+      "comment": "This is Fan its Electronic.",
+      "date": "2022-10-03T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Cabbage",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 345,
+      "comment": "Cabbage was purchased on second hand. This fruit cost of worth 345",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
